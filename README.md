@@ -1,4 +1,4 @@
-![Header](https://your-banner-image-url.com)
+![Header](https://raw.githubusercontent.com/username/repo-name/main/images/banner.png)
 
 # Hi there, I'm Bhumika! 👋
 
