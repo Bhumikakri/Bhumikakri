@@ -31,7 +31,6 @@ I am a **MERN Stack Developer** with a strong passion for building user-friendly
 ## 📊 GitHub Stats:
 
 ![Bhumika's GitHub Stats](https://github-readme-stats.vercel.app/api?username=bhumika123&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bhumika123&layout=compact)
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=bhumika123&theme=radical)
 
 ---
